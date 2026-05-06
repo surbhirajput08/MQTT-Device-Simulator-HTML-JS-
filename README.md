@@ -1,5 +1,5 @@
 # 🛰️ MQTT Device Simulator (HTML + JS)
-
+CI/CD Pipeline
 > ⚡ **MQTT Device Simulator — connect, publish, and test IoT data instantly in your browser 🌐.**
 
 A lightweight, browser-based MQTT device simulator built using the **Paho MQTT JavaScript client**.  
